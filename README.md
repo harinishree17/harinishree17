@@ -1,7 +1,7 @@
 ## Hi there 👋 Harini here ...
 
 - 💬 Building my portfoilio
-- 🔭 I’m currently working as an SDE intern @ AppViewX
+- 🔭 I recently worked as an SDE intern @ AppViewX
 - 🌱 I’m currently learning Design Priniciples
 - 📫 How to reach me: 
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harini-shree/)
